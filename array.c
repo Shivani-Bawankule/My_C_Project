@@ -17,5 +17,6 @@ int main()
 	printf("%c\n",arrc[1]);
 	printf("%c\n",arrc[2]);
 	printf("..................................");
+	printf("pppppppppppppppppppppppppppppppppppppp");
 	return 0;
 }

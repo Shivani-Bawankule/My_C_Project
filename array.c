@@ -16,5 +16,6 @@ int main()
 	printf("%c\n",arrc[0]);
 	printf("%c\n",arrc[1]);
 	printf("%c\n",arrc[2]);
+	printf("..................................");
 	return 0;
 }
